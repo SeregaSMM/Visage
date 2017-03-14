@@ -3692,3 +3692,6 @@
 			.main-navigator .actions li {
 				padding-bottom: 0.5rem;
 			}
+			.row-inner {height: 100%;width: 100%;display: inline-block;border: 0;padding:20px;font-family: Roboto;position:relative;text-align:center}
+			
+			
